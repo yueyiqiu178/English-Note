@@ -7,4 +7,11 @@
 | 未來    | I will work | I will be working  | I will have worked | I will have been working |
 | 過去未來| I would work | I would be working  | I would have worked | I would have been working |
 
-## 左:動作進行的時間 上:動作進行的狀態
+### 左:動作進行的時間 上:動作進行的狀態
+
+## 現在簡單式
+### 
+## 現在進行式
+## 現在完成式
+
+
