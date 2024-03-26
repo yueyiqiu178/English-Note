@@ -33,11 +33,11 @@
 ## 過去進行式
 ### 過去某一時刻正在進行的事
 #### When I got up this morning, the birds were chirping and the bell was ringing.
-## 簡單現在完成式
+## 現在完成式
 #### Meg cannot attend your wedding, because she has broken her left leg.
 ## 現在完成進行式
 #### It has been snowing all day!
-## 簡單過去完成式
+## 過去完成式
 ### 如果已經用過去式談論過去,可是還要再繼續回溯時,就用過去完成式
 #### When Emma arrived at the party, Sue and Jerome had already gone home.
 ## 過去完成進行式
@@ -52,7 +52,24 @@
 ## 主動語態與被動語態
 ### be動詞+過去分詞
 #### Yesterday Spain was hit by a terrible hurricane.
-
+### 現在簡單式: am/is/are + 過去分詞
+#### We are paid twice a month.
+### 現在完成式: have/has + been + 過去分詞
+#### Kay and I have been invited to a surprise birthday party of Sue.
+### 現在進行式: am/is/are + being + 過去分詞
+#### Bob is being interviewd for an EFL teaching job.
+### 過去簡單式: was/were + 過去分詞
+#### John said this computer was not made in Taiwan.
+### 過去完成式: had + been + 過去分詞
+#### Last month when I went back to my hometown for a visit, I found out that all the abandoned houses had been torn down.
+### 過去進行式: was/were + being + 過去分詞
+#### The suspected serial robber was being chased by Sheriff Daisy Sun.
+## 關係代名詞
+### who 作主詞
+#### This is Andrew, who works with Sue.
+### whom 作受詞
+#### This is Ms.Sue Powers, whom I am working with on an e-car project.
+### that/who 作主詞
 
 
 
