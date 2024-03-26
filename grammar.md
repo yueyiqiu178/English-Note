@@ -33,7 +33,26 @@
 ## 過去進行式
 ### 過去某一時刻正在進行的事
 #### When I got up this morning, the birds were chirping and the bell was ringing.
-## 現在完成式
+## 簡單現在完成式
+#### Meg cannot attend your wedding, because she has broken her left leg.
+## 現在完成進行式
+#### It has been snowing all day!
+## 簡單過去完成式
+### 如果已經用過去式談論過去,可是還要再繼續回溯時,就用過去完成式
+#### When Emma arrived at the party, Sue and Jerome had already gone home.
+## 過去完成進行式
+### 表示一直持續到過去的某一時刻,比較長的的行為動作
+#### When Sam arrived at Daisy's house, he could see that she had been crying hard.
+## 簡單未來完成式
+### 開始於過去的行為動作,現在還沒完成,將在未來的某個時刻完成
+#### Ray will have finished writing the huge grammar book by May.
+## 未來完成進行式
+### 在未來的某個特定時刻,已經發生並持續下去
+#### I will have been teaching for 20 years by the end of this year.
+## 主動語態與被動語態
+### be動詞+過去分詞
+#### Yesterday Spain was hit by a terrible hurricane.
+
 
 
 
